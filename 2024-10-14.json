@@ -1,0 +1,26 @@
+{
+  "name": "Matthew Cooper",
+  "age": 44,
+  "address": {
+    "street": "Wecik Highway",
+    "city": "Bozare",
+    "state": "OR",
+    "zip": "55491"
+  },
+  "contact": {
+    "phone": "(364) 259-2058",
+    "servicePhone": "800577368"
+  },
+  "birthday": "1980-09-23T06:35:25.463Z",
+  "ip": "115.173.72.58",
+  "foo": "bar",
+  "profile": {
+    "about": "Teju feonhir hogik elibom mog onnetbat tatzuhus mihta nuw zak kajej rihula. Po uruoj gez bo ta ke lowatvob do jopo ces bewwi jisbari osvu. Roz conlobo do ji fi giut uhbub zomgoj gu liwgo gonuhgiz mac najru. Ir ja ho an sudunab pottok ehfebvup don masas mahgowos wago vabi mucin.",
+    "bio": "Levnibliz pevumpat absulwov elhip tojunnon ine reweger wuuheor utbi now miala ka ra egu ajanaafi. Suszo tis dafi onecek ivespel judal civuli mo epwumi ahierfin redkansu dogtuz nomvudes doznu hobrivvi vungi. Puk isogu hefa le gissetwav dosleap car jigian ni do cucu ci zeddocem rulew lamer ani."
+  },
+  "apiKey": "af569ddf3f79d6a22cdaea595b9052477bbb083630bdc31132cf9afa17cbf72d",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
