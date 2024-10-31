@@ -1,0 +1,26 @@
+{
+  "name": "Belle Norton",
+  "age": 34,
+  "address": {
+    "street": "Funic Loop",
+    "city": "Atwoeg",
+    "state": "VT",
+    "zip": "60777"
+  },
+  "contact": {
+    "phone": "(366) 837-4364",
+    "servicePhone": "800493496"
+  },
+  "birthday": "2001-03-14T01:06:59.481Z",
+  "ip": "27.102.133.61",
+  "foo": "bar",
+  "profile": {
+    "about": "Duji rufi uguakiku ido jo so jatkiz mob hutalic ane kole muf vubbot. Bec nokju fitfiwu zominu dil camif fi ceb jiv febani pinpuz lownelza ivo wipabhep. Lobejo hu galwoce fo huha hepujowo lualsa hif huced zij oruje vevti fapin ebebapih.",
+    "bio": "Riahela letal gozaiwo le larpa dubulwe ine jobri ebufatev regoga jocubah wenuji jajjobe gahsi kuzciha or tif mutvopoh. Lemuc micsa mofdenlel ehke fiemukup zelrinug hephi daun ejmout watehid ohu hivaj li dondog. Sapmu par ga bepirugi jadmevmas jutiulo kakiw toruvi libu obi rum nakrune kedez. Apfel pajfe ticwogsi utfik ubkon vapgaj wuf vefacva unumov doehas heta fo ejsokev."
+  },
+  "apiKey": "724cb4f306112365774574716c4bdcebd93b72fe00475c8321aea3aee6110d64",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
