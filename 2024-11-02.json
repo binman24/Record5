@@ -1,0 +1,26 @@
+{
+  "name": "Scott Briggs",
+  "age": 27,
+  "address": {
+    "street": "Hoen View",
+    "city": "Odotamo",
+    "state": "CT",
+    "zip": "16501"
+  },
+  "contact": {
+    "phone": "(535) 259-9667",
+    "servicePhone": "800532658"
+  },
+  "birthday": "1971-07-06T07:26:23.701Z",
+  "ip": "120.15.255.85",
+  "foo": "bar",
+  "profile": {
+    "about": "Nihsohuci inkuwuce hop rivocuhi ranlo bikidev vujinuv wumuse koad vueto unzuhta hagejim fa dir awigev fira. Govlu cew emnumisi vuwulbol uvu ta rowkew badinvig co sevilme weggafe lubbu gijajwiw oned aruda. Renu azpiz sipubo ipe weowdo irunid leweb zubjit fotsawme lejtuso hevu laf. Me pi titoc gawhub uzkosko wepka uge jici uku wehawefo om jacurkuv as vizged ebrahes mopodaali. Doefapu ote ceh boffaraj ec gejga selku sendad cufvoreg zur suvus zopvujad dihefpel.",
+    "bio": "Durzurlof negof edgut vasderim pobigi fazsu ej tadebmir delluuze di bu sudgav omahiduwe mot nuki. Tub nav mukacpo usilo fafisit vig taj casrum vicevev ninuzira voheclo abedojmo wolowute fo ono duh se dosud. Ta urnuz cid ac lu utcejheh mita vimdam fajjomov por rucad jaf vajwa cuic zeap jeg hela govopuh. Evamaav savnog bumu evimu madcovpe ab oteha nepjablas ak uw rengatpu zime god. Wurwislu orovuv cobudi tuih wi hevjem go fivin ceicnut vihomin unjomho ke gimpero mub mafkal. Kictuvta reeg gi daovi fogu azonumal sum odu wob ifzo so liluf dehcemo donriwoc gutulop dosgepazo dumo sarbibuc. Rurhok deiwubav panmu nuzrowe if nolhonsu bel litve duditip tu ruzuw pouju."
+  },
+  "apiKey": "775d4fa29a0e5d2ca115dd937fbae12de630203ac43bc3bc4d2da9d7f3de83c9",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
