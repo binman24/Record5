@@ -1,0 +1,26 @@
+{
+  "name": "Corey Wright",
+  "age": 57,
+  "address": {
+    "street": "Nane Parkway",
+    "city": "Icildih",
+    "state": "TX",
+    "zip": "52846"
+  },
+  "contact": {
+    "phone": "(963) 980-3215",
+    "servicePhone": "800856412"
+  },
+  "birthday": "2001-03-20T12:37:43.335Z",
+  "ip": "59.127.74.153",
+  "foo": "bar",
+  "profile": {
+    "about": "Ehoduje durize apemi pivpuzoc bo guuna irwimto veten bagcice ubru geg lig ligapu ziklu zocon rochoih jigemo niemodo. Ic uzta zot kovnezef fe toc lifmepew ezcihuno roemeucu piv pil pidoode ozwew. Ziv amfa pusimsag bekadha wowzuwek pac dis elegun uwze va talvejo vofpita po.",
+    "bio": "Jusdorpu dotelez tadiw rumkebi izatog hi kahif bomec tib dafguso odu pej. Heis ti sicojeti lomof deta luwtol kuhvuc kah beseje sinig awowokoz necow. Helja venta oh kuru ile tapmozih loremu vowitava olba erlaju cumbuw sappuoh lajur ma."
+  },
+  "apiKey": "a1e6f6e143fa31d4ff3cc78ddb582935734f9f19aa645901bcbecb47418c302f",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
