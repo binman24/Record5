@@ -1,0 +1,26 @@
+{
+  "name": "Johnny Allison",
+  "age": 53,
+  "address": {
+    "street": "Ocri Place",
+    "city": "Luokroj",
+    "state": "DE",
+    "zip": "36219"
+  },
+  "contact": {
+    "phone": "(206) 539-1988",
+    "servicePhone": "800971957"
+  },
+  "birthday": "1960-04-14T11:00:36.786Z",
+  "ip": "64.220.181.229",
+  "foo": "bar",
+  "profile": {
+    "about": "Hi siudivev vilaktak cohew vagu ha nikit suvju puhvocluw ohliso ohi cof ge. Wuekajo hu luva buh sov amfeono cehki corsewwed forpog jadocdiz feroz zo. Ujkid lujis dohfetdod pibokja wap havet sitel ommaepu enatnen ja kaewrit wislo lug pecu diiksef cocov. Zushic saivu dabjivkag me dota denu no gossopow ijnuguf ki ro ebeutafin jepparnod giv mafujaw ha fewaf miwowe. Cu zam gerackog sajnikah ma sojocmir oteruveb kic fo li hu bior aseuc ame iw ar cajar gohkod.",
+    "bio": "Ciziw osehogif nenji dizepekod veefalu wowi sacavfej tojigusip songelu rud nap dovhaodo ebka hiimucu odupal ru vunnuduna jibez. Memorag jolwib wuhafmap om bubfoh kab kubu gik juho lauw hajsefovi fas la. Jolordi lutnehim pe ofeol za wo hucsab bac hamodfi jej bituh iliped ew caovawu. Ab joolo napjiz umevehvi umalulu jumuwiwo heew oz ewo mut jidedi ma ca."
+  },
+  "apiKey": "17f350c71a7409cb89fc321e707b75ccb89c743970909a9223ac50e8ac3ca3c9",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
