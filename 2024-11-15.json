@@ -1,0 +1,26 @@
+{
+  "name": "Barry Bradley",
+  "age": 60,
+  "address": {
+    "street": "Faro Way",
+    "city": "Beelgo",
+    "state": "WI",
+    "zip": "69716"
+  },
+  "contact": {
+    "phone": "(718) 243-3024",
+    "servicePhone": "800566568"
+  },
+  "birthday": "2005-10-19T11:09:11.773Z",
+  "ip": "117.185.238.195",
+  "foo": "bar",
+  "profile": {
+    "about": "Gep pa loika iwe mi dor pimogbaz vovun icowelawo ukafo coktizlas madaf sapudta birboc petelobe. Hu uke ga nu ufomuzfok ehkos laije ruhivwuk bahavub hid jisubmuw avuosu wewtop lautdi ovsaibu ape. Ni mujadag ama maokaagu ade ha moufhe hewo ka zevalifo zac mej zah mifsuna povub mupra ju lettuk. Ani ki ru wa sajwik idaga rozlolu tuvuno jifuv icu mup ojvo fihitet tajehe mebceh zonem. Cicasu cigocnum fohro bodaic eni pakfik jivi guetaro zeb cugod muk sas wemlac towmov.",
+    "bio": "Danikido ri karatu ahemo no pajed pal ce zewog wusejer ga duon uhaojeica pa we ajahod negirabar liw. Tamejnof bef te juroci junwu wekte udhaasi ro piomal efu ropu ziwalvoc fok. Nuge pow ebsuffur hir rokaha bosehhuc ujutaz rigpufo paded hegfot nisut seiri zusvovgew teffiwa bu vi. Men goz amu usarum zagpute guju pod kis lovihih hu suzowip cizot uv ka."
+  },
+  "apiKey": "7e4b2ac17668d2fc11c9d0b0793d339061ee80dac2275e421a9bfec38c94c94d",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}
