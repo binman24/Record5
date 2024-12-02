@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Pearson",
+  "age": 26,
+  "address": {
+    "street": "Voaki Junction",
+    "city": "Bomjajgi",
+    "state": "MN",
+    "zip": "02302"
+  },
+  "contact": {
+    "phone": "(410) 786-8305",
+    "servicePhone": "800193695"
+  },
+  "birthday": "1989-12-02T02:17:05.627Z",
+  "ip": "229.134.160.19",
+  "foo": "bar",
+  "profile": {
+    "about": "Gujla sase birouke zahzet zafpa dawib jintitfo gohu adog fuascu fafiduf los pokdevu sazmus pabpi utocoet pasjiac nozbavud. Ozwinvo kaz heim om zom jimid belgi mum wig lusdav ahu jil ibcu raof pic hevbot ha. Cahfaga hebuzez tapot rifamros ad cozeg adulucu azivib owe ofohono ruj mu ifeji ugewajo lussuzpil. Mu cituila ivirivsu julakade koc kupcogma od esiafje tuw juhdem weshij gupad. Kofizza lecfuhgut gu fecuvpo ju ocvejug rok tezug gev zimniw kuw butaha gij. Bu kenevapi mag pu susan lej ful so topaowi konarsuv pej nek limov.",
+    "bio": "Fussa nejepupa miwco beblossiw durkuc walzuca osi guk zahrij ofatus waw mizad hiktugfo. It dovujre mim cevdelgu lacomaila kawile agatucib poz vutzempe vab nupvedup dupot sa jukcimkiv dibucih notazfaj to. Radduku remfoek go igkicuh deri wud ojomevmim farna ewibu umi jozvuvime musog homjooni jakzitmep fogmutdu hahehfup."
+  },
+  "apiKey": "5815ba7bfe2562087129173205cdb1d2aa3e91574435d05de22aeac82e369d81",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
