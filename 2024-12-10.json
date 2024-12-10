@@ -1,0 +1,26 @@
+{
+  "name": "Martin Cortez",
+  "age": 45,
+  "address": {
+    "street": "Tilte Street",
+    "city": "Azehome",
+    "state": "WA",
+    "zip": "71886"
+  },
+  "contact": {
+    "phone": "(856) 302-2223",
+    "servicePhone": "800699848"
+  },
+  "birthday": "1994-04-20T01:58:23.052Z",
+  "ip": "94.129.230.195",
+  "foo": "bar",
+  "profile": {
+    "about": "Ejahudzir koepe purigi ipjo mi apzuv raw uple favumzum dopgep wuzabemi luntudu. Humjah mowsoz hegupmev nagpirbul zi jal uce putcez ihitu kejciw nojiwvev zidjowej zaviaf ipcer. Rag wuthil milsez cedhu hef jembedu wub tanubda rekezmes faci vog owuto nujipce de. Muj mizpetca musbob daj no cu niakiva ototevase abete wevpuzbu ecaihgo joul cukoge cohre hike lamez. Dedhu ab uwehengur zasfuc web ivi fozpazak tebeku galofwih athec nac gup azujo amunetapa. Jivhofsod zopu tuisav numo vu henguz mikmok luzocagor zuri nesuphur uzuhi kocnivza polazsa.",
+    "bio": "Aci tewidku huv ile fuh sasicehu cid locfu bubzi aripu hejec nokucowuc op ko otzumdiz kejada. Teevari ho wuz lenliwe hi jewuahu hu tesi pekme ecsojuk johum dazu kajzawaz mozomeli dewmu. Co doogu zub opo cah pule ro gogtu ugpe viideaca bejog totme aju fabin tez cupjefun."
+  },
+  "apiKey": "6974159609e6fb2bca09fea73fe69f2406519ecf62fe6be8f7804423d6f29db5",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
