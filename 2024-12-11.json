@@ -1,0 +1,26 @@
+{
+  "name": "Jorge Nichols",
+  "age": 23,
+  "address": {
+    "street": "Kaaca Plaza",
+    "city": "Wugedve",
+    "state": "CT",
+    "zip": "22803"
+  },
+  "contact": {
+    "phone": "(916) 492-4710",
+    "servicePhone": "800257215"
+  },
+  "birthday": "1992-05-22T07:28:53.538Z",
+  "ip": "109.247.192.58",
+  "foo": "bar",
+  "profile": {
+    "about": "Iwora wemsah lam zek goj da tes sigo fimeze tiicsoh niskagud ka huzvi viowpas kajkovura gioji. Wuevmaf cule imumi itu wis ratziwe va seomvuv ejelato fohju lenzod puk zijmah wiw. Lamzo ofihu fiso urasauje elnobhuj zafag ucihi ro bif po duj nut humde.",
+    "bio": "Upimeluj iwowuavu oli emnildol muwewlo garif goptaf vowuasa gaplurjo nonafigu uza bune vicwo. Samifza sulvegof civaf revagi nigufep lor atrahe kosnu kusa we goujuopi dar uci luwopad alefircu ve tep. Kec cuffirah reg hej varbe pu ucuki olisemkag nuvwo kodet nej vobvufu cokma imgehin tiphet zoregog iwuih. Oroki wi riwouku heszito tupdavla nipise nore jo neswo ja dur ovije jas ispoza."
+  },
+  "apiKey": "9c70daaff2352f2eddcc1f2b9f0b61e9e866555f16304a6c33fd2c4f887b831e",
+  "currency": {
+    "code": "SLL",
+    "name": "Sierra Leone Leone"
+  }
+}
