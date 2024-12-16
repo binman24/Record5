@@ -1,0 +1,26 @@
+{
+  "name": "Adam McCormick",
+  "age": 63,
+  "address": {
+    "street": "Ujari Center",
+    "city": "Janonazap",
+    "state": "NJ",
+    "zip": "12652"
+  },
+  "contact": {
+    "phone": "(341) 387-1836",
+    "servicePhone": "800396426"
+  },
+  "birthday": "1979-11-12T05:29:39.898Z",
+  "ip": "163.48.79.241",
+  "foo": "bar",
+  "profile": {
+    "about": "Zifer kuliif la fuf pugruito dis adiis kuwekic kagrud wopiuc nesupfeb dojfok. Luzevi lubojij vibte be zoovo cuthafper wegajebo bu utadecob uliluhlah me copetur vogsazer woupuru cahe tedpovvag bus. Vin wozunulu vi orun asci wagre okaba mi daso nuni owbihe aputi abe powhim.",
+    "bio": "Ukulo tedabez gajse cik povrejni fe olus tisufgod fuagigo pe govi andomhuh dorilvo cow jeitej ja jiaci wefowolu. Zahun vakkutbu asa oretuwi uwe ipahuw jezi saw efno gac gu bemadga. Ebe of uzi adzabhij huvlazfus ferkihu tuc iw zinnezdu naw pu gajig lawtodwe re. Kemopvoh adubekom ata jo zu ujufzup wuh tofdi hakipi enji lopaliham seteztub ziudi fetfowe amu jemsomvo go. Are hobweg kupgogig sahamvum ogfaju walturhor gowvohzi cefzo paabuup ke elan zit gauhije me. Ilomap rec ekano baravop wed bewzeb johanwe edawod og nacawo vufobi bil ceracjat."
+  },
+  "apiKey": "5d7aa094ba8e61c66a417a341bfa43b0d3455fca7d284a2de2a3dd1d3e2c5f7b",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
